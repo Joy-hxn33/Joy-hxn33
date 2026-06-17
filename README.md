@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(60deg,#a8ff78,#78ffd6)&height=300&section=header&text=young%20hyen%20gihhub&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(60deg,#11998e,#38ef7d)&height=300&section=header&text=young%20hyen%20gihhub&fontSize=50&fontColor=ffffff&animation=fadeIn)

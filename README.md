@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=220&section=header&text=young%20hyen%20gihhub&fontSize=40&fontColor=ffffff&fontAlignY=40&descKey=0&fontName=Comfortaa)
+![header](https://capsule-render.vercel.app/api?type=waving&color=linear-gradient&customColorList=10&height=220&section=header&text=YOUNG%20HYEN'S%20GITHUB&fontSize=38&fontColor=ffffff&fontAlignY=40&descKey=0&fontName=Comfortaa&animation=fadeIn)

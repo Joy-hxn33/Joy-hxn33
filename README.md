@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&section=header&text=YOUNG%20HYEN'S%20GITHUB&fontSize=55&fontColor=1e272e&fontAlignY=50&descKey=0&fontName=Jua&animation=fadeIn" alt="YOUNG HYEN'S GITHUB">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&section=header&text=YOUNG%20HYEN'S%20GITHUB&fontSize=55&fontColor=74b9ff&fontAlignY=50&descKey=0&fontName=Jua&animation=fadeIn" alt="YOUNG HYEN'S GITHUB">
 </div>
 
 <div align="center">

@@ -4,10 +4,7 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-  <a href="https://app.notion.com/p/32463164c03f80c8b316e40ab7e25192"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a>
   <a href="https://www.instagram.com/yxu_hxn"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
-  <a href="mailto:jyhesdall@dgsw.hs.kr"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
-</div>
 
 <br>
 
